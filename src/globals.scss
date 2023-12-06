@@ -1,0 +1,12 @@
+@import 'variables';
+@import "https://unpkg.com/open-props";
+
+*,*::before,*::after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #141414;
+}

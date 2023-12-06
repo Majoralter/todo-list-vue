@@ -8,6 +8,9 @@ dependencies:
   core-js:
     specifier: ^3.8.3
     version: 3.34.0
+  open-props:
+    specifier: ^1.6.13
+    version: 1.6.13
   vue:
     specifier: ^3.2.13
     version: 3.3.10
@@ -4660,6 +4663,10 @@ packages:
     dependencies:
       mimic-fn: 2.1.0
     dev: true
+
+  /open-props@1.6.13:
+    resolution: {integrity: sha512-2RnJCI3tBHpj1FHSw+jTF1BjdfnpV99IMzZB00srkEX5wy33sR6zdcE0xFVE61VKrgd6QIW6w90NAaR2lIKhqQ==}
+    dev: false
 
   /open@8.4.2:
     resolution: {integrity: sha512-7x81NCL719oNbsq/3mh+hVrAWmFuEYUqrq/Iw3kUzH8ReypT9QQ0BLoJS7/G9k6N81XjW4qHWtjWwe/9eLy1EQ==}
